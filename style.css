@@ -37,10 +37,6 @@ h2{
     display: flex;
     font-size: 12px;
 }
-.footer{
-    height: 5vh;
-    margin-bottom: 5%;
-}
 .flex-titles{
     justify-content: space-between;
 }
